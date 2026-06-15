@@ -95,11 +95,11 @@
         </article>
         <article>
           <h3>WhatsApp</h3>
-          <p>+62 812-3456-7890</p>
+          <p><a href="https://wa.me/6281234567890">+62 812-3456-7890</a></p>
         </article>
         <article>
           <h3>Email</h3>
-          <p>halo@lpkbistra.id</p>
+          <p><a href="mailto:halo@lpkbistra.id">halo@lpkbistra.id</a></p>
         </article>
       </div>
     </section>
